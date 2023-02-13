@@ -1,0 +1,50 @@
+████████╗███████╗██████╗ ██████╗  █████╗ ███████╗ ██████╗ ██████╗ ███╗   ███╗
+╚══██╔══╝██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔═══██╗██╔══██╗████╗ ████║
+   ██║   █████╗  ██████╔╝██████╔╝███████║█████╗  ██║   ██║██████╔╝██╔████╔██║
+   ██║   ██╔══╝  ██╔══██╗██╔══██╗██╔══██║██╔══╝  ██║   ██║██╔══██╗██║╚██╔╝██║
+   ██║   ███████╗██║  ██║██║  ██║██║  ██║██║     ╚██████╔╝██║  ██║██║ ╚═╝ ██║
+   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
+                                                                             
+##############################################################################
+
+Clearing the Hashicorp Terraform Exam 
+
+- Watch all the video lectures 
+- Do hands on lab right away
+- Do Paid online Practice Exams. 
+
+Lets checkout ExamPro.co Terraform 
+
+Contents that we would deal with are... 
+
+-------------
+There is ... 
+-------------
+
+
+Understanding Infrastructure as code (IaC) concepts: 
+Understanding Terraform Purpose (vs other IaC):
+Understanding Terraform Basics 
+Use the Terraform CLI(Outside of core Workflow)
+Interact with Terraform modules:
+Navigate Terraform workflow 
+Implement and maintain state:
+Read, Generate and Modify configuration
+Understanding the terraform cloud and enterprise capabilities
+
+
+In-Person Test Center or Online from the convenience of your own home!!
+
+Passing Grade :  700/1000
+
+57 questions - 17 questions could be wrong but yet you could pass 
+
+Format of questions are... 
+
+Multiple Choice, 
+Multiple Answer, 
+Fill in the Blank
+
+
+Duration is 1 hour. 
+Seat time is 90 mins... 

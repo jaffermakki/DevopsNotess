@@ -1,0 +1,55 @@
+██████╗  █████╗ ███████╗██╗  ██╗    ███████╗ ██████╗██████╗ ██╗██████╗ ████████╗██╗███╗   ██╗ ██████╗ 
+██╔══██╗██╔══██╗██╔════╝██║  ██║    ██╔════╝██╔════╝██╔══██╗██║██╔══██╗╚══██╔══╝██║████╗  ██║██╔════╝ 
+██████╔╝███████║███████╗███████║    ███████╗██║     ██████╔╝██║██████╔╝   ██║   ██║██╔██╗ ██║██║  ███╗
+██╔══██╗██╔══██║╚════██║██╔══██║    ╚════██║██║     ██╔══██╗██║██╔═══╝    ██║   ██║██║╚██╗██║██║   ██║
+██████╔╝██║  ██║███████║██║  ██║    ███████║╚██████╗██║  ██║██║██║        ██║   ██║██║ ╚████║╚██████╔╝
+╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝        ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+
+=================================
+Introduction and Topics Covered : 
+=================================
+
+Section - 1 : core components of bashscripting 
+Section - 2 : Variables 
+Section - 3 : How Bash is working 
+Section - 4 : Receive inputs from users 
+Section - 5 : Logic 
+Section - 6 : Command Line Arguments / Options 
+Section - 7 : Arrays and For loops 
+Section - 8 :  Debugging Scripts 
+Section - 9 : Assignment - Script Building 
+Section - 10 :  Automation
+Section - 11 :  Remote Servers 
+
+=================================
+What are shells? And what is 
+their purpose 
+=================================
+
+Goals :  
+
+- Explain difference between shells and a script 
+- Explain benefits of using the Bash Shell 
+- Explain the benefits of creating scripts 
+
+
+What is a Shell :  
+
+Its an interpreter for giving commands to computer in byte codes. 
+Its an interface for humans to interact with computer 
+
+Bash Shell :
+
+Also known as a Bourne Again Shell. 
+Also known as sh shell created by Stephen Bourse in 1979 
+Bash is arguably the most commonly used Linux Shell today. 
+
+Why Bash Scripting? 
+
+- Its feature rich 
+- Its fast 
+- Its Very common 
+
+What is  shell script?
+
+its a file containing commands for the shell 
